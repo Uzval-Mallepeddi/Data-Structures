@@ -1,2 +1,2 @@
 # Data-Structures
-Python Implementation of Data Structures and algorithms
+Implementation of Data Structures and algorithms using Java
